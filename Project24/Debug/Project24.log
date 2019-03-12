@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project24\project24\source.cpp(15): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project24\project24\source.cpp(113): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project24.vcxproj -> C:\Users\Тимур\source\repos\Project24\Debug\Project24.exe
